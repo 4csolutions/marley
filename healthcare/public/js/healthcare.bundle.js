@@ -23,3 +23,4 @@ import "./nursing_dialog/panes/notes_pane.js";
 import "./nursing_dialog/panes/handover_pane.js";
 import "./nursing_dialog/panes/care_plan_pane.js";
 import "./nursing_dialog/attach.js";
+import "./dock_sidebar_fix.js";
